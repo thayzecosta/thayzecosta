@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 <div> 
   <a href = "mailto:thayzemartin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thayze-d-martin-costa-da-silva-5a940185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.researchgate.net/profile/Thayze-Costa" target="_blank"><img height="28" src="https://dergipark.org.tr/tr/download/journal-file/22085" target="_blank"></a> 
+ 
   ![Snake animation](https://github.com/thayzecosta/thayzecosta/blob/output/github-contribution-grid-snake.svg)
  
 </div>
