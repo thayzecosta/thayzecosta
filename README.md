@@ -24,13 +24,14 @@ Here are some ideas to get you started:
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayzecosta&layout=compact&langs_count=7&theme=buefy&count_private=true&include_all_commits=true"/>
 -->
 
+<div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayzecosta&layout=compact&langs_count=7&theme=buefy&count_private=true&include_all_commits=true"/>
-
+</div>
 
 <div align="left">
   <a href="https://github.com/thayzecosta">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thayzecosta&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  </div>
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
