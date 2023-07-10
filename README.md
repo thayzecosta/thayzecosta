@@ -3,7 +3,7 @@
 <div style="display: inline_block"><br>
 
 - 😄 I'm graduated in Mathematics and I'm PhD in Electric Engineering
-- 🔭 I’m currently working on Software Development
+- 🔭 I’m currently working with optimization of hydropower systems
 - 🌱 I’m currently learning Computing Enginnering
 
 <img align="right" alt="thayze-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/694999334810550334/1048610695379419266/eu_anime.gif">  
