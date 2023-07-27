@@ -49,10 +49,8 @@ Here are some ideas to get you started:
   <a href="https://www.researchgate.net/profile/Thayze-Costa" target="_blank"><img height="28" src="https://dergipark.org.tr/tr/download/journal-file/22085" target="_blank"></a>
   <a href="https://replit.com/@ThayzeCosta" target="_blank"><img height="28" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
   
-  
+<!-- 
   ![Snake animation](https://github.com/thayzecosta/thayzecosta/blob/output/github-contribution-grid-snake.svg)]
- <!--
-
 -->
 
 </div>
