@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Computing Enginnering
 -  I am passionated about Taichichuan, heavy metal, English, Mandarin and learning new things
 
-<img align="right" alt="thayze-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/694999334810550334/1048610695379419266/eu_anime.gif">  
+<img align="right" alt="thayze-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/694999334810550334/1048610695379419266/eu_anime.gif?ex=65feead0&is=65ec75d0&hm=3ace4f606cd6e1e15b67ed1450bfa7a4e15de93e6dc266b2d05b6ee2358349b4&=&width=610&height=610">  
 
 </div>
 
