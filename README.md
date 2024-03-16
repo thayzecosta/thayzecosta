@@ -5,7 +5,7 @@
 - 😄 I'm graduated in Mathematics and I'm PhD in Electric Engineering
 - 🔭 I’m currently working with optimization of hydropower systems
 - 🌱 I’m currently learning Computing Enginnering
--  I am passionated about Taichichuan, heavy metal, English, Mandarin and learning new things
+-  I am passionated about Taichichuan, English, Mandarin and learning new things
 
 <img align="right" alt="thayze-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/694999334810550334/1048610695379419266/eu_anime.gif">  
 
