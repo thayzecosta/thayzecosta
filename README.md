@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
 
-- 😄 I'm graduated in Mathematics and I'm PhD in Electric Engineering
+- 😄 I'm graduated in Mathematics, Computing Engineering, Information Technology and I'm Master and PhD in Electric Engineering
 - 🔭 I’m currently working with optimization of hydropower systems
 - 🌱 I’m currently learning Computing Enginnering
 -  I am passionated about Taichichuan, English, Mandarin and learning new things
